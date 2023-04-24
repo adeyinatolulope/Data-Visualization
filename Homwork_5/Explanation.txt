@@ -1,0 +1,8 @@
+Violin_plot_10_observation.png
+The aboveis a violin plot, it is to visualize the distribution of activity calories by 10 observations.Each observation has different colors to distinguish them.
+The mean activity calore of the observations is less than 2000 calories. 
+2738218 have outliers of activity calories above 12000 calories.
+
+violin_plot_10_observations_race_gender.png
+From this split violin plot, The Asians have no female gender. The female white observation and the male Asian observation have a similar normal distribution with high density of the data around the mean, which is about 100 calories.
+The Male White Observation have less density around the mean and is right skewed.
